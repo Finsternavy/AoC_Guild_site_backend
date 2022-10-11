@@ -81,4 +81,4 @@ def get_guild_data():
     
     return json.dumps(result)
 
-app.run(debug=True)
+# app.run(debug=True)
